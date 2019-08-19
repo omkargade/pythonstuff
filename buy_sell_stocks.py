@@ -11,8 +11,8 @@ l_s = 358.80
 a=0
 check = 1
 
-api_key = "tn5d8q9pigdykukf"
-api_secret = "ctk15fv5bfnisnehiasukwlabl20ejaq"
+api_key = ""
+api_secret = ""
 #print(api_key+" "+api_secret)
 
 kite = KiteConnect(api_key=api_key,timeout=15)
